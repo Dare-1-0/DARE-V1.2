@@ -57,7 +57,7 @@ href='https://github.com/Dare-1-0/DARE-V1.2/fork' target="_blank"><img alt='Fork
 
 
 ## Deploy.
- [![nima](https://img.shields.io/badge/DARE-V1.2_deploy_on_panel-430098?style=for-the-badge&logo=cloud&logoColor=white&buttcode=1n2i3m4a)](https://dash.navocloud.com/register?ref=5HPoxmWQ?template=https://github.com/darkmakerofc/DARE-V1.2)
+ [![nima](https://img.shields.io/badge/DAREV1.2_deploy_on_panel-430098?style=for-the-badge&logo=cloud&logoColor=white&buttcode=1n2i3m4a)](https://dash.navocloud.com/register?ref=5HPoxmWQ?template=https://github.com/darkmakerofc/DARE-V1.2)
    
 
 
