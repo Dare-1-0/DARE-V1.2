@@ -19,7 +19,7 @@
 <a href="https://github.com/Dare-1-0/DARE-V1.2/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Dare-1-0/DARE-V1.2?color=red&style=flat-square"></a>
 <a href="https://github.com/Dare-1-0/DARE-V1.2/forks/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Dare-1-0/DARE-V1.2?color=yellow&style=flat-square"></a>
 <a href="https://github.com/Dare-1-0/DARE-V1.2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Dare-1-0/DARE-V1.2?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Dare-1-0/DARE-V1.2"><img title="Size" src="https://img.shields.io/github/repo-size/DARE-V1.2?style=flat-square&color=darkred"></a>
+<a href="https://github.com/Dare-1-0/DARE-V1.2"><img title="Size" src="https://img.shields.io/github/repo-size/Dare-1-0/DARE-V1.2?style=flat-square&color=darkred"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Dare-1-0/DARE-V1.2/hit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/Dare-1-0/DARE-V1.2/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-Yes-green.svg"></a>&nbsp;&nbsp;
 </p>
