@@ -16,7 +16,7 @@
     <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-BMB-red.svg?style=for-the-badge&logo=github"></a>
 <a href="https://github.com/Dare-1-0?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Dare-1-0?color=red&style=flat-square"></a>   
-<a href="https://github.com/Dare-1-0/DARE-V1.2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Dare-1-0/DARE-V1.2?color=white&style=flat-square"></a>
+<a href="https://github.com/Dare-1-0/DARE-V1.2/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Dare-1-0/DARE-V1.2?color=red&style=flat-square"></a>
 <a href="https://github.com/Dare-1-0/DARE-V1.2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Dare-1-0/DARE-V1.2?color=yellow&style=flat-square"></a>
 <a href="https://github.com/Dare-1-0/DARE-V1.2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Dare-1-0/DARE-V1.2?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/Dare-1-0/DARE-V1.2"><img title="Size" src="https://img.shields.io/github/repo-size/DARE-V1.2?style=flat-square&color=darkred"></a>
