@@ -43,8 +43,10 @@ Contact Developer on [telgram](https://t.me/Tickic).
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ---
 1. ***Connect Four Game.***
-2.  ***Tic Tac Toe.***
-3.  ***New menu***
+2. ***Tic Tac Toe.***
+3. ***New menu***
+4. ***heroku ban fixed***
+5. ***github deploy added***
 
 <h3 align="center"><b>DARE-V1.2</b> DEPLOYMENT METHODS
 </h3>
