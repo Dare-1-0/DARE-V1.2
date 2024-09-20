@@ -8,7 +8,7 @@
   <p align="center">
 
   <a aria-label="Join our chats" href="https://whatsapp.com/channel/0029VajhqUnD38COHw1aSy0M" target="_blank">
-<img src="https://files.catbox.moe/yy939p.jpg">
+<img src="https://files.catbox.moe/c2aetl.jpg">
 </a>
 
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=DARE-V1.2+WHATSAPP+BOT" alt="">
