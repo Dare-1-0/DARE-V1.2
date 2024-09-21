@@ -29,7 +29,7 @@
 ### Please Read !
 DARE-V1.2, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before.DARE-V1.2 bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖.We are not responsible for any problems caused by your use of this
 [Join the WhatsApp channel](https://whatsapp.com/channel/0029VajhqUnD38COHw1aSy0M) for any issues that arise during the bot creation process.
-And fork this repo and give one star for Queen teni_claire. 
+And fork this repo and give one star for DARE-V1.2. 
 Contact Developer on [telgram](https://t.me/Tickic).
 [WhatsApp](https://wa.link/5ba28f)
 
